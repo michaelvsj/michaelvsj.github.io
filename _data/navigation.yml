@@ -3,12 +3,12 @@ main:
    
   - title: "CV"
     url: /cv/
-    
+
   - title: "Portafolio"
     url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Carpintería"
+    url: /carpinteria/
     
 
     
