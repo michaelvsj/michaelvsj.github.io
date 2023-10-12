@@ -1,6 +1,6 @@
 ---
-title: "Item number 1"
-excerpt: "Bla bla bla<br/><img src='/images/500x300.png'>"
+title: "Arrimo"
+excerpt: "Arrimo con cubierta de piedra laja<br/><img src='/images/20231012_092355.jpg'>"
 collection: carpinteria
 ---
 
