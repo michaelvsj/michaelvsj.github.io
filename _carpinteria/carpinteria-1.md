@@ -1,6 +1,6 @@
 ---
 title: "Arrimo"
-excerpt: "Arrimo con cubierta de piedra laja<br/><img src='/images/20231012_092355.jpg'>"
+excerpt: "Arrimo con cubierta de piedra laja<br/><img src='/images/20231012_092355.jpg' style='width: 500px; max-width: 100%; height: auto;'>"
 collection: carpinteria
 ---
 

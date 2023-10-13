@@ -1,14 +1,22 @@
 ---
 layout: archive
-title: "Carpinteria"
+title: "Muebles y carpintería"
 permalink: /carpinteria/
 author_profile: true
 ---
-
 {% include base_path %}
 
+<p>Estos son algunos de los muebles y construcciones que he hecho.</p>
 
-{% for post in site.carpinteria %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<div class ="image-gallery">
+  {% for image in site.static_files %}
+      {% if image.path contains 'images/carpinteria/thumbnails' %}
+      {% assign full_size_file_path = image.path | replace: "/thumbnails", "" %}
+      <div class="box">
+        <a href="{{ site.baseurl }}{{full_size_file_path}}" title="{{ image.name }}">
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="image.name"  class="img-gallery" >
+        </a>
+      </div>
+      {% endif %}
+  {% endfor %}
+</div>

@@ -11,19 +11,20 @@ redirect_from:
 
 Educación
 ======
-* Ingeniería Civil Electricista, Pontificia Universidad Católica de Chile, 2005
+* Diploma en Energía Sustentable, Pontificia Universidad Católica de Chile, 2014
 * M.S. en Ciencias de la Ingeniería, Pontificia Universidad Católica de Chile, 2005
   * Titulado con distinción máxima.
   * Paper publicado en revista ISI: Van Sint Jan, M. et al., Ultrasound based measurements of sugar and ethanol concentrations in hydroalcoholic solutions, Food Control (2007).
+* Ingeniería Civil Electricista, Pontificia Universidad Católica de Chile, 2005
 
 Experiencia laboral
 ======
-* 2017 - presente : Jefe de Prototipos @ Woodtech
+* 2019 - presente : Jefe de Prototipos @ Woodtech
   * Investigar y probar nuevas tecnologías, tanto de hardware (e.g. LiDAR 3D, LPWAN) como algoritmos y usos de la inteligencia artificial (e.g. redes profundas para tareas de segmentación de imágenes y regresión).
   * Desarrollar pruebas de concepto y prototipos.
   * Consultor de proyectos y desarrollo de productos.
 
-* 2011 - 2017: Subgerente área Productos @ Woodtech
+* 2011 - 2019: Subgerente área Productos @ Woodtech
   * Liderar a un equipo de 5 ingenieros y técnicos para proyectos de mejora
 y desarrollo de nuevos productos.
   * Efectuar propuestas técnicas para proyectos de desarrollo.

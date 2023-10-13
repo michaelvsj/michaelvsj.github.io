@@ -4,13 +4,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Portafolio"
-    url: /portfolio/
+#  - title: "Portafolio"
+#    url: /portfolio/
         
   - title: "Carpintería"
     url: /carpinteria/
-    
-
     
 #  - title: "Guide"
 #    url: /markdown/

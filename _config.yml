@@ -9,7 +9,7 @@
 locale                   : "es-CL"
 title                    : "Michael Van Sint Jan | Sitio personal"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Michael Van Sint Jan"
 description              : &description "personal description"
 url                      : https://michaelvsj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Michael Van Sint Jan"
   avatar           : "profile.png"
   bio              : "Ingeniero Civil Electricista | Maker"
-  location         : "Location"
+  location         : "Santiago, Chile"
   employer         :
   pubmed           :
   googlescholar    :
@@ -266,7 +266,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: 	America/Santiago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
