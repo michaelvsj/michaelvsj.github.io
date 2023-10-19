@@ -19,7 +19,7 @@ Educación
 
 Experiencia laboral
 ======
-* 2019 - presente : Jefe de Prototipos @ Woodtech
+* 2019 - presente: Jefe de Prototipos @ Woodtech
   * Investigar y probar nuevas tecnologías, tanto de hardware (e.g. LiDAR 3D, LPWAN) como algoritmos y usos de la inteligencia artificial (e.g. redes profundas para tareas de segmentación de imágenes y regresión).
   * Desarrollar pruebas de concepto y prototipos.
   * Consultor de proyectos y desarrollo de productos.
@@ -48,16 +48,16 @@ con el hardware en los productos.
   * Diseño de tableros eléctricos en CAD.
   * Programación de PLC.
   * Configuración de equipos TI.
-  * Diseño y contrucción de plataforma de pruebas de sensores y equipos.
+  * Diseño y construcción de plataforma de pruebas de sensores y equipos.
   * Implementación de sistema de monitoreo y registro de variables eléctricas.
 
 * 2004 - 2006: Socio fundador e ingeniero de desarrollo @ Innobius
   * Diseño e implementación de hardware, firmware y software para control de acceso usando tecnología iButton.
 
 * 2004 - 2007: Independiente
-  * Diseño y fabricación de hardware y software de adquisisción de datos para acelerómetros, LVDT y celdas de carga.
+  * Diseño y fabricación de hardware y software de adquisición de datos para acelerómetros, LVDT y celdas de carga.
   * Diseño de PCBs.
-  * Webmaster de Profísica.
+  * Webmaster de ONG Profísica.
   * Desarrollo de software de planificación de atenciones de salud para la Ilustre Municipalidad de Puente Alto.
 
 Competencias
@@ -67,14 +67,14 @@ Competencias
   * Cámaras ópticas (tipo CCTV y tipo *machine vision*).
   * GNSS (GPS).
   * RFID.
-  * Sensores clásicos como fotoelectricos, inductivos, sonar, etc.
+  * Sensores clásicos como fotoeléctricos, inductivos, sonar, etc.
   * Estándares de comunicación y redes como RS485/422/232, Ethernet, Modbus, WiFi y LoRA.
 * Ciencia de datos y aprendizaje de máquina
-  * Redes neuronales convolucionales (Tensorflow y algo de Pytorch).
+  * Redes neuronales convolucionales (en Tensorflow).
   * *Transfer learning*.
   * Aplicaciones a problemas de clasificación y regresión de datos.
   * Aplicaciones a segmentación de imágenes.
-  * Modelos "clásicos" como regresión lineal multivariada, Random Forest, etc.
+  * Modelos "clásicos" como regresión lineal multivariada, *Random Forest*, etc.
 * Diseño electrónico
   * Diseño de circuitos y PCB de electrónica digital y microcontroladores.
   * Uso de Altium Designer (aunque hace algunos años que no lo uso).
@@ -87,7 +87,7 @@ Competencias
   * Diseño y configuración de redes y equipos ethernet LAN y WLAN.
   * Suite Office.
 * Programación
-  * Actualmente **Python**, anteriormente: VB, C, Java, Matlab, HTML.
+  * Actualmente Python, anteriormente: VB, C, Java, Matlab, HTML.
   * Interfaces gráficas en Qt5.
   * Bases de datos relacionales y SQL.
 * Idiomas
